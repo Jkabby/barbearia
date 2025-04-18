@@ -5,6 +5,7 @@
 	justify-content: center;
 	flex-direction: column;
 	border-radius: 20px;
+	width: auto;
 }
 body{
 	background-image: url(https://img.freepik.com/vetores-premium/padrao-sem-emenda-de-vetor-hipster-de-icones-de-barbearia-com-rosto-de-hipster-em-estilo-plano-cabeleireiros-sem-fim_258190-3052.jpg);
