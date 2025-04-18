@@ -1,0 +1,101 @@
+.TOPO{
+	background-color: #e2dccc;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	border-radius: 20px;
+}
+body{
+	background-image: url(https://img.freepik.com/vetores-premium/padrao-sem-emenda-de-vetor-hipster-de-icones-de-barbearia-com-rosto-de-hipster-em-estilo-plano-cabeleireiros-sem-fim_258190-3052.jpg);
+}
+
+.LOGO{
+	width:140px;
+	border-radius: 13PX;
+}
+
+
+
+#fonte{
+	font-family:Lucida Handwriting;
+	color: brown ;
+	height: 30px;
+	width: auto;
+	flex-direction: column;
+	display: flex;
+	text-align: center;
+
+}
+
+.lista2{
+	width: 80%;
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+
+}
+.mae{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+a{
+	text-decoration: none;
+
+}
+a:hover{
+	color: blueviolet;
+}
+a:active{
+	color: darkred;
+}
+
+
+.maetabela{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 	85%;
+	
+
+
+
+}
+
+.tabela{
+	align-items: center;
+	line-height: 40px;
+	 border: 4px outset #ccc;
+ 	 padding: 20px;
+ 	 background-color: #e2dccc;
+	border-radius: 20px;
+	height: 500px;
+	table-layout: fixed;
+
+
+}
+
+tr{
+	text-align: center;
+	
+}
+th{
+	color: brown;
+	font-size: 40px;
+	
+}
+td{
+	font-size: 20px;
+}
+.icones{
+	weight:15px;
+	height: 16px;
+}
+
+.botão{
+	border-radius: 	10px;
+	border-color: brown;
+}
